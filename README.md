@@ -12,8 +12,7 @@ ScanLingua is your smart document assistant! 📄➡️📝 Simply upload a scan
 Perfect for digitizing notes, reports, or multilingual documents—effortlessly! 🚀
 
 # Application Link
-
--
+https://scan-lingua.streamlit.app/
 
 # Technologies Used
 * Streamlit -- Front end development

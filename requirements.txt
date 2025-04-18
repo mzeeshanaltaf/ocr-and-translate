@@ -1,5 +1,6 @@
 streamlit
 py-zerox
 pdfplumber
+streamlit-pdf-viewer
 email-validator
 captcha
